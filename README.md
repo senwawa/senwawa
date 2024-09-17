@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senwawa
-- 👀 I’m in Python and Just Dance (UbiArt Framework) Modding
+- 👀 I’m in Python and Motorsport!
 - 😗 I'm From Sardinia, Italy!
   
 <h2><u>MyStats:</u></h2>
